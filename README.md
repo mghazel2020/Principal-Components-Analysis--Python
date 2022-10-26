@@ -1,6 +1,6 @@
 # Principal Components Analysis using MNIST Datset in Python
 
-<img src="images/PCA.jpg" widtth="1000"/>
+<img src="images/PCA.jpg" width="1000"/>
 
 ## 1. Objectives
 
@@ -222,7 +222,7 @@ num_visualized_images <span style="color:#308080; ">=</span> <span style="color:
 visualize_images_and_labels<span style="color:#308080; ">(</span>num_visualized_images<span style="color:#308080; ">,</span> <span style="color:#008c00; ">1</span><span style="color:#308080; ">)</span>
 </pre>
 
-<img src="images/sample-images.png" widtth="1000"/>
+<img src="images/sample-images.png" width="1000"/>
 
 #### 4.2.3. Examine the number of images for each class of the training and testing subsets:
 
@@ -262,7 +262,7 @@ plt<span style="color:#308080; ">.</span>legend<span style="color:#308080; ">(</
 <span style="color:#308080; ">]</span><span style="color:#308080; ">)</span><span style="color:#308080; ">;</span>
 </pre>
 
-<img src="images/histogram-train-images.png" widtth="1000"/>
+<img src="images/histogram-train-images.png" width="1000"/>
 
 
 ### 4.3. Part 3: Use Scikit-learn-API: Generate the PCA representation of the training data:
@@ -297,7 +297,7 @@ plt<span style="color:#308080; ">.</span>title<span style="color:#308080; ">(</s
 plt<span style="color:#308080; ">.</span>show<span style="color:#308080; ">(</span><span style="color:#308080; ">)</span>
 </pre>
 
-<img src="images/Scikit-learn-PCA-2D.png" widtth="1000"/>
+<img src="images/Scikit-learn-PCA-2D.png" width="1000"/>
 
 #### 4.3.2. Display the explained variance variations:
 
@@ -350,7 +350,7 @@ plt<span style="color:#308080; ">.</span>title<span style="color:#308080; ">(</s
 plt<span style="color:#308080; ">.</span>show<span style="color:#308080; ">(</span><span style="color:#308080; ">)</span>
 </pre>
 
-<img src="images/Scikit-learn-PCA-Explianed-Variance.png" widtth="1000"/>
+<img src="images/Scikit-learn-PCA-Explianed-Variance.png" width="1000"/>
 
 
 ### 4.4. Part 4: From Scratch: Generate the PCA representation of the training data:
@@ -395,7 +395,7 @@ plt<span style="color:#308080; ">.</span>title<span style="color:#308080; ">(</s
 plt<span style="color:#308080; ">.</span>show<span style="color:#308080; ">(</span><span style="color:#308080; ">)</span>
 </pre>
 
-<img src="images/Implemented-PCA-2D.png" widtth="1000"/>
+<img src="images/Implemented-PCA-2D.png" width="1000"/>
 
 #### 4.4.2. Display the explained variance variations:
 
@@ -437,7 +437,7 @@ plt<span style="color:#308080; ">.</span>title<span style="color:#308080; ">(</s
 plt<span style="color:#308080; ">.</span>show<span style="color:#308080; ">(</span><span style="color:#308080; ">)</span>
 </pre>
 
-<img src="images/Implemented-PCA-Explianed-Variance.png" widtth="1000"/>
+<img src="images/Implemented-PCA-Explianed-Variance.png" width="1000"/>
 
 ### 4.5. Step 5: Display a successful execution message:
 
