@@ -35,6 +35,7 @@ The objective of this project is to demonstrate the application of the PCA algor
 
 #### 4.1.1. Python imports:
 
+
 <pre style="color:#000020;background:#e6ffff;font-size:10px;line-height:1.5;"><span style="color:#595979; ">#------------------------------------------------------</span>
 <span style="color:#595979; "># Python imports and environment setup</span>
 <span style="color:#595979; ">#------------------------------------------------------</span>
